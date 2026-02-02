@@ -37,8 +37,22 @@ Este projeto utiliza a biblioteca **Gson**.
 Se estiver usando **Maven**, adicione:
 
 ```xml
+
 <dependency>
     <groupId>com.google.code.gson</groupId>
     <artifactId>gson</artifactId>
     <version>2.10.1</version>
 </dependency>
+```
+---
+## Como executar o projeto
+
+1. Clone o repositório:
+   git clone https://github.com/luizhrx/buscador-filmes
+
+2. Abra no IntelliJ
+
+3. Adicione sua API Key da OMDb
+
+4. Execute a classe Principal
+
