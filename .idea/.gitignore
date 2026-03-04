@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# IntelliJ
+.idea/
+
+# Arquivos compilados
+*.class
+
+# Pasta de build
+out/
+target/
+
+# Arquivos do sistema
+.DS_Store
